@@ -1,7 +1,7 @@
 {
   "name": "order_fetcher",
   "productName": "order_fetcher",
-  "version": "1.2.0",
+  "version": "2.2.0",
   "appVersion": "20190701",
   "description": "My Electron application description",
   "main": "dist/background.js",
